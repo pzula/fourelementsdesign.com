@@ -1,0 +1,14 @@
+<hgroup>
+   <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+   <h2>{{ site.description }}</h2>
+   <ul class="nav">
+     <li><a href="{{ root_url }}/blog/archives">All Posts</a></li>
+     {% for navigation_element in site.navigation_elements %}
+     <li>
+       <a href="{{ navigation_element.link }}">
+         {{ navigation_element.name }}
+       </a>
+     </li>
+     {% endfor %}
+   </ul>
+</hgroup>
