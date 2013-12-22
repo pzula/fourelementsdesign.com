@@ -19,13 +19,13 @@ Back in the fall, we had heard from one of our friends that a company in Akron t
 &nbsp;
 
 <div id="attachment_189" class="wp-caption aligncenter" style="width: 747px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104545.jpg" ><img class=" wp-image-189" title="Shipping crates for glass from FabTech" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104545.jpg" alt="Shipping crates for glass from FabTech" width="737" height="553" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120327_104545.jpg" ><img class=" wp-image-189" title="Shipping crates for glass from FabTech" src="/images/2012/03/IMG_20120327_104545.jpg" alt="Shipping crates for glass from FabTech" width="737" height="553" /></a><p class="wp-caption-text">
     Shipping crates for glass from FabTech
   </p>
 </div>
 
 <div id="attachment_190" class="wp-caption aligncenter" style="width: 747px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104556.jpg" ><img class=" wp-image-190" title="Loads of nails at every corner of the frames we disassembled" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104556.jpg" alt="Loads of nails at every corner of the frames we disassembled" width="737" height="553" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120327_104556.jpg" ><img class=" wp-image-190" title="Loads of nails at every corner of the frames we disassembled" src="/images/2012/03/IMG_20120327_104556.jpg" alt="Loads of nails at every corner of the frames we disassembled" width="737" height="553" /></a><p class="wp-caption-text">
     Loads of nails at every corner of the frames we disassembled
   </p>
 </div>
@@ -37,7 +37,7 @@ We needed sleeping quarters for 13 hens, 3 ducks and 1 rooster in one mobile coo
 Our earlier experience with the ducks had been that they need to have a clean floor at all times, especially during cold weather. Their feet are sensitive and can get frostbite easily if they sleep while stepping in feces. We had made a raised mesh floor in their last coop for this reason, which allowed for the droppings to fall through the plastic mesh down to sawdust bedding, which we would periodically refresh. We removed a piece of our mesh flooring from the old coop and modified the dimensions of our mobile coop to fit this flooring. The mesh floor allows for us to use the duck and chicken droppings as a direct fertilizer below the coop wherever we move it, and saves us the hassle of stooping into the short coop door to clean it out. We also built the coop on a skid frame in order to be able to move it with the tractor around our fields.
 
 <div id="attachment_187" class="wp-caption aligncenter" style="width: 747px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_122605.jpg" ><img class=" wp-image-187 " title="Chicken coop framing made from reclaimed materials" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_122605.jpg" alt="Chicken coop framing made from reclaimed materials" width="737" height="553" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120226_122605.jpg" ><img class=" wp-image-187 " title="Chicken coop framing made from reclaimed materials" src="/images/2012/03/IMG_20120226_122605.jpg" alt="Chicken coop framing made from reclaimed materials" width="737" height="553" /></a><p class="wp-caption-text">
     Chicken coop framing made from reclaimed materials
   </p>
 </div>
@@ -45,38 +45,38 @@ Our earlier experience with the ducks had been that they need to have a clean fl
 All of the lumber in the framing and shingles was from the shipping crates. The plywood pieces for the sides were laying around the farm, full of rusty nails. We removed the nails from the plywood and reused as many of the nails from the shipping crates as possible. When we were done building, we found a couple gallons of &#8220;oops&#8221; paint at the local hardware store and had it tinted various shades of pink for a final flourish. Total spent on the project: $35 combined for hinges, latches, and paint. If our barn hadn&#8217;t burned down in February, I suspect the total for the coop would have been $6 in pink &#8220;oops&#8221; paint.
 
 <div id="attachment_191" class="wp-caption aligncenter" style="width: 563px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_120336.jpg" ><img class=" wp-image-191 " title="Persa cutting roof rafters" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_120336.jpg" alt="Persa cutting roof rafters" width="553" height="737" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120226_120336.jpg" ><img class=" wp-image-191 " title="Persa cutting roof rafters" src="/images/2012/03/IMG_20120226_120336.jpg" alt="Persa cutting roof rafters" width="553" height="737" /></a><p class="wp-caption-text">
     Persa cutting roof rafters
   </p>
 </div>
 
 <div id="attachment_194" class="wp-caption aligncenter" style="width: 563px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_124413.jpg" ><img class=" wp-image-194 " title="Chelsea digging through used nails" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120226_124413.jpg" alt="Chelsea digging through used nails" width="553" height="737" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120226_124413.jpg" ><img class=" wp-image-194 " title="Chelsea digging through used nails" src="/images/2012/03/IMG_20120226_124413.jpg" alt="Chelsea digging through used nails" width="553" height="737" /></a><p class="wp-caption-text">
     Chelsea digging through used nails
   </p>
 </div>
 
 <div id="attachment_195" class="wp-caption aligncenter" style="width: 747px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120302_164117.jpg" ><img class=" wp-image-195" title="Coop with roof, nesting boxes, and partial walls" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120302_164117.jpg" alt="Coop with roof, nesting boxes, and partial walls" width="737" height="553" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120302_164117.jpg" ><img class=" wp-image-195" title="Coop with roof, nesting boxes, and partial walls" src="/images/2012/03/IMG_20120302_164117.jpg" alt="Coop with roof, nesting boxes, and partial walls" width="737" height="553" /></a><p class="wp-caption-text">
     Coop with roof, nesting boxes, and partial walls
   </p>
 </div>
 
 <div id="attachment_196" class="wp-caption aligncenter" style="width: 563px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120306_150958.jpg" ><img class=" wp-image-196 " title="Persa painting the coop" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120306_150958.jpg" alt="Persa painting the coop" width="553" height="737" /></a><p class="wp-caption-text">
+  <a href="/images/2012/03/IMG_20120306_150958.jpg" ><img class=" wp-image-196 " title="Persa painting the coop" src="/images/2012/03/IMG_20120306_150958.jpg" alt="Persa painting the coop" width="553" height="737" /></a><p class="wp-caption-text">
     Persa painting the coop
   </p>
 </div>
 
 <p style="text-align: center;">
   <div id="attachment_197" class="wp-caption aligncenter" style="width: 747px">
-    <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120307_160547.jpg" ><img class=" wp-image-197 " title="Chelsea moving the coop" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120307_160547.jpg" alt="Chelsea moving the coop" width="737" height="553" /></a><p class="wp-caption-text">
+    <a href="/images/2012/03/IMG_20120307_160547.jpg" ><img class=" wp-image-197 " title="Chelsea moving the coop" src="/images/2012/03/IMG_20120307_160547.jpg" alt="Chelsea moving the coop" width="737" height="553" /></a><p class="wp-caption-text">
       Chelsea moving the coop
     </p>
   </div>
   
   <div id="attachment_199" class="wp-caption aligncenter" style="width: 747px">
-    <a href="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104304.jpg" ><img class=" wp-image-199" title="The coop with electric net fencing and protected, happy chickens" src="http://fourelementsdesign.com/wp-content/uploads/2012/03/IMG_20120327_104304.jpg" alt="The coop with electric net fencing and protected, happy chickens" width="737" height="553" /></a><p class="wp-caption-text">
+    <a href="/images/2012/03/IMG_20120327_104304.jpg" ><img class=" wp-image-199" title="The coop with electric net fencing and protected, happy chickens" src="/images/2012/03/IMG_20120327_104304.jpg" alt="The coop with electric net fencing and protected, happy chickens" width="737" height="553" /></a><p class="wp-caption-text">
       The coop with electric net fencing and protected, happy chickens
     </p>
   </div>

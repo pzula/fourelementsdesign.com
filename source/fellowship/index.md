@@ -4,7 +4,7 @@ author: admin
 layout: page
 ---
 <div id="attachment_99" class="wp-caption alignleft" style="width: 242px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/01/persa-on-roof1.jpg" ><img class="size-full wp-image-99  " style="margin: 3px;" title="Persa working on the roof of the llama shed" src="http://fourelementsdesign.com/wp-content/uploads/2012/01/persa-on-roof1.jpg" alt="" width="232" height="300" /></a><p class="wp-caption-text">
+  <a href="/images/2012/01/persa-on-roof1.jpg" ><img class="size-full wp-image-99  " style="margin: 3px;" title="Persa working on the roof of the llama shed" src="/images/2012/01/persa-on-roof1.jpg" alt="" width="232" height="300" /></a><p class="wp-caption-text">
     Persa working on the roof of the llama shed
   </p>
 </div>
@@ -18,7 +18,7 @@ Last May, I participated in a week-long strawbale construction course at <a href
 &nbsp;
 
 <div id="attachment_177" class="wp-caption aligncenter" style="width: 229px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/01/envirolet1.jpg" ><img class="size-medium wp-image-177 " title="The Envirolet" src="http://fourelementsdesign.com/wp-content/uploads/2012/01/envirolet1-219x300.jpg" alt="The Envirolet" width="219" height="300" /></a><p class="wp-caption-text">
+  <a href="/images/2012/01/envirolet1.jpg" ><img class="size-medium wp-image-177 " title="The Envirolet" src="/images/2012/01/envirolet1-219x300.jpg" alt="The Envirolet" width="219" height="300" /></a><p class="wp-caption-text">
     The Envirolet, dirty, dusty, and awaiting its new home
   </p>
 </div>

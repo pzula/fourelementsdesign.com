@@ -30,7 +30,7 @@ Another area where this design will differ from conventional living roofs is the
 I still haven&#8217;t modeled my living earthberm ramp to the living roof, but that will come next in the design. For now, here are a few views of my model to satiate your curiosity.
 
 <div id="attachment_86" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/back-side-view.jpg" ><img class="size-medium wp-image-86" title="Living Roof and Entry View" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/back-side-view-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/back-side-view.jpg" ><img class="size-medium wp-image-86" title="Living Roof and Entry View" src="/images/2012/02/back-side-view-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
     Living Roof and Entry View
   </p>
 </div>
@@ -48,7 +48,7 @@ I still haven&#8217;t modeled my living earthberm ramp to the living roof, but t
 &nbsp;
 
 <div id="attachment_85" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/back-building-view.jpg" ><img class="size-medium wp-image-85" title="Back & Side view" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/back-building-view-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/back-building-view.jpg" ><img class="size-medium wp-image-85" title="Back & Side view" src="/images/2012/02/back-building-view-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
     Back & Side view
   </p>
 </div>
@@ -68,7 +68,7 @@ I still haven&#8217;t modeled my living earthberm ramp to the living roof, but t
 &nbsp;
 
 <div id="attachment_84" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-entry.jpg" ><img class="size-medium wp-image-84" title="Front Entry view" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-entry-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/front-entry.jpg" ><img class="size-medium wp-image-84" title="Front Entry view" src="/images/2012/02/front-entry-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
     Front Entry view
   </p>
 </div>

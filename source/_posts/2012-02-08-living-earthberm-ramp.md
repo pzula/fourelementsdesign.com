@@ -25,7 +25,7 @@ tags:
   - sustainable design
 ---
 <div id="attachment_158" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-window-tires.jpg" ><img class="size-medium wp-image-158" title="Tire Retaining Wall for Earthberm Ramp" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-window-tires-300x197.jpg" alt="Tire Retaining Wall for Earthberm Ramp" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/rear-window-tires.jpg" ><img class="size-medium wp-image-158" title="Tire Retaining Wall for Earthberm Ramp" src="/images/2012/02/rear-window-tires-300x197.jpg" alt="Tire Retaining Wall for Earthberm Ramp" width="300" height="197" /></a><p class="wp-caption-text">
     Tire Retaining Wall for Earthberm Ramp
   </p>
 </div>
@@ -47,13 +47,13 @@ Another addition to this rendition of the model is the tin roof from with rainwa
 Below are the latest images from the model:
 
 <div id="attachment_162" class="wp-caption aligncenter" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-left-view-eb.jpg" ><img class="size-medium wp-image-162" title="Front Left View with Earthbag Retaining Wall" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-left-view-eb-300x197.jpg" alt="Front Left View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/front-left-view-eb.jpg" ><img class="size-medium wp-image-162" title="Front Left View with Earthbag Retaining Wall" src="/images/2012/02/front-left-view-eb-300x197.jpg" alt="Front Left View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
     Front Left View with Earthbag Retaining Wall
   </p>
 </div>
 
 <div id="attachment_163" class="wp-caption aligncenter" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-right-view-eb.jpg" ><img class="size-medium wp-image-163" title="Front Right View with Earthbag Retaining Wall" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/front-right-view-eb-300x197.jpg" alt="Front Right View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/front-right-view-eb.jpg" ><img class="size-medium wp-image-163" title="Front Right View with Earthbag Retaining Wall" src="/images/2012/02/front-right-view-eb-300x197.jpg" alt="Front Right View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
     Front Right View with Earthbag Retaining Wall
   </p>
 </div>
@@ -61,13 +61,13 @@ Below are the latest images from the model:
 &nbsp;
 
 <div id="attachment_164" class="wp-caption aligncenter" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-right-view-eb.jpg" ><img class="size-medium wp-image-164" title="Rear Right View with Earthbag Retaining Wall" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-right-view-eb-300x197.jpg" alt="Rear Right View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/rear-right-view-eb.jpg" ><img class="size-medium wp-image-164" title="Rear Right View with Earthbag Retaining Wall" src="/images/2012/02/rear-right-view-eb-300x197.jpg" alt="Rear Right View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
     Rear Right View with Earthbag Retaining Wall
   </p>
 </div>
 
 <div id="attachment_165" class="wp-caption aligncenter" style="width: 310px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-left-view-eb.jpg" ><img class="size-medium wp-image-165" title="Rear Left View with Earthbag Retaining Wall" src="http://fourelementsdesign.com/wp-content/uploads/2012/02/rear-left-view-eb-300x197.jpg" alt="Rear Left View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
+  <a href="/images/2012/02/rear-left-view-eb.jpg" ><img class="size-medium wp-image-165" title="Rear Left View with Earthbag Retaining Wall" src="/images/2012/02/rear-left-view-eb-300x197.jpg" alt="Rear Left View with Earthbag Retaining Wall" width="300" height="197" /></a><p class="wp-caption-text">
     Rear Left View with Earthbag Retaining Wall
   </p>
 </div>

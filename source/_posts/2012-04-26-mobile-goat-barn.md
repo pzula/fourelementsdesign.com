@@ -12,7 +12,7 @@ tags:
   - shed
   - skid barn
 ---
-[<img class="alignleft  wp-image-214" style="border: 2px solid black; margin: 2px;" title="The goat skid barn" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_34261.jpg" alt="The goat skid barn" width="414" height="311" />][1]On April 3<sup>rd</sup>, our goat Agnes had her first kid, Alice, at Blue Rock Station. The week before, we had gotten our first goat on the farm, Gilead (“Gilly”), a beautiful white Saanen-Boar-Nubian wether, about eight weeks old. We housed Gilly in our mixed species animal shed with a large fenced in area while we made our mad rush to get ready for Agnes and Alice&#8217;s arrival.
+[<img class="alignleft  wp-image-214" style="border: 2px solid black; margin: 2px;" title="The goat skid barn" src="/images/2012/04/IMG_34261.jpg" alt="The goat skid barn" width="414" height="311" />][1]On April 3<sup>rd</sup>, our goat Agnes had her first kid, Alice, at Blue Rock Station. The week before, we had gotten our first goat on the farm, Gilead (“Gilly”), a beautiful white Saanen-Boar-Nubian wether, about eight weeks old. We housed Gilly in our mixed species animal shed with a large fenced in area while we made our mad rush to get ready for Agnes and Alice&#8217;s arrival.
 
 <a name="btAsinTitle"></a>After assessing the property and the 25+ acres of wooded area, we decided that there was plenty of goat browse, but that we needed a way to have a portable barn that could be moved to new areas. We flipped through many animal shelter books and found a skid barn design for horses in “How to Build Animal Housing” by Carol Ekarius. We modified the design for our needs, removing the windows so that the goats couldn&#8217;t jump up and break them, and adding a polycarbonate roof material (leftover from the greenhouse) to let in light.
 
@@ -35,79 +35,79 @@ After we built the goat shed and moved it into place using the skid steer, our n
   
   <div id="ngg-image-17" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3257.JPG" title=" " class="shutterset_set_4" > <img title="Ripping apart shipping crates" alt="Ripping apart shipping crates" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3257.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3257.JPG" title=" " class="shutterset_set_4" > <img title="Ripping apart shipping crates" alt="Ripping apart shipping crates" src="/images/2012/04/thumbs/thumbs_IMG_3257.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-18" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3262.JPG" title=" " class="shutterset_set_4" > <img title="Chiseling notches for the skids" alt="Chiseling notches for the skids" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3262.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3262.JPG" title=" " class="shutterset_set_4" > <img title="Chiseling notches for the skids" alt="Chiseling notches for the skids" src="/images/2012/04/thumbs/thumbs_IMG_3262.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-19" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3267.JPG" title=" " class="shutterset_set_4" > <img title="Putting together sill plates" alt="Putting together sill plates" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3267.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3267.JPG" title=" " class="shutterset_set_4" > <img title="Putting together sill plates" alt="Putting together sill plates" src="/images/2012/04/thumbs/thumbs_IMG_3267.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-20" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3270.JPG" title=" " class="shutterset_set_4" > <img title="Raising the wall framing" alt="Raising the wall framing" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3270.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3270.JPG" title=" " class="shutterset_set_4" > <img title="Raising the wall framing" alt="Raising the wall framing" src="/images/2012/04/IMG_3270.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-21" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3276.JPG" title=" " class="shutterset_set_4" > <img title="Attaching roof rafters" alt="Attaching roof rafters" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3276.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3276.JPG" title=" " class="shutterset_set_4" > <img title="Attaching roof rafters" alt="Attaching roof rafters" src="/images/2012/04/thumbs/thumbs_IMG_3276.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-22" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3278.JPG" title=" " class="shutterset_set_4" > <img title="Completed framing" alt="Completed framing" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3278.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3278.JPG" title=" " class="shutterset_set_4" > <img title="Completed framing" alt="Completed framing" src="/images/2012/04/thumbs/thumbs_IMG_3278.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-23" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3282.JPG" title=" " class="shutterset_set_4" > <img title="Hay feeder wall" alt="Hay feeder wall" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3282.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3282.JPG" title=" " class="shutterset_set_4" > <img title="Hay feeder wall" alt="Hay feeder wall" src="/images/2012/04/thumbs/thumbs_IMG_3282.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-24" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3283.JPG" title=" " class="shutterset_set_4" > <img title="Three walls completed" alt="Three walls completed" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3283.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3283.JPG" title=" " class="shutterset_set_4" > <img title="Three walls completed" alt="Three walls completed" src="/images/2012/04/thumbs/thumbs_IMG_3283.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-25" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3286.jpg" title=" " class="shutterset_set_4" > <img title="Final wall raising" alt="Final wall raising" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3286.jpg" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3286.jpg" title=" " class="shutterset_set_4" > <img title="Final wall raising" alt="Final wall raising" src="/images/2012/04/thumbs/thumbs_IMG_3286.jpg" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-26" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3310.JPG" title=" " class="shutterset_set_4" > <img title="Painting the goat barn" alt="Painting the goat barn" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3310.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3310.JPG" title=" " class="shutterset_set_4" > <img title="Painting the goat barn" alt="Painting the goat barn" src="/images/2012/04/thumbs/thumbs_IMG_3310.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-27" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3315.JPG" title=" " class="shutterset_set_4" > <img title="Joe & Chelsea building the goat fence" alt="Joe & Chelsea building the goat fence" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3315.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3315.JPG" title=" " class="shutterset_set_4" > <img title="Joe & Chelsea building the goat fence" alt="Joe & Chelsea building the goat fence" src="/images/2012/04/thumbs/thumbs_IMG_3315.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-28" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3322.JPG" title=" " class="shutterset_set_4" > <img title="Moving the goat barn using the skid steer" alt="Moving the goat barn using the skid steer" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3322.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3322.JPG" title=" " class="shutterset_set_4" > <img title="Moving the goat barn using the skid steer" alt="Moving the goat barn using the skid steer" src="/images/2012/04/thumbs/thumbs_IMG_3322.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
   <div id="ngg-image-29" class="ngg-gallery-thumbnail-box"  >
     <div class="ngg-gallery-thumbnail" >
-      <a href="http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_3334.JPG" title=" " class="shutterset_set_4" > <img title="Building the milking stand" alt="Building the milking stand" src="http://fourelementsdesign.com/wp-content/uploads/2012/04/thumbs/thumbs_IMG_3334.JPG" width="100" height="75" /> </a>
+      <a href="/images/2012/04/IMG_3334.JPG" title=" " class="shutterset_set_4" > <img title="Building the milking stand" alt="Building the milking stand" src="/images/2012/04/thumbs/thumbs_IMG_3334.JPG" width="100" height="75" /> </a>
     </div>
   </div>
   
@@ -117,4 +117,4 @@ After we built the goat shed and moved it into place using the skid steer, our n
   </div>
 </div>
 
- [1]: http://fourelementsdesign.com/wp-content/uploads/2012/04/IMG_34261.jpg
+ [1]: /images/2012/04/IMG_34261.jpg

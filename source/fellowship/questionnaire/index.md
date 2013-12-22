@@ -53,7 +53,7 @@ layout: page
 <span style="font-family: Arial,sans-serif;">(</span>the minimum size for a wheelchair accessible toilet stall at 60 inches wide and 59 inches long, with the toilet fixture set in the corner of the stall opposite the door.)
 
 <div id="attachment_36" class="wp-caption alignleft" style="width: 265px">
-  <a href="http://fourelementsdesign.com/wp-content/uploads/2012/01/fig30a.gif" ><img class="size-full wp-image-36" title="ADA Bathroom requirements" src="http://fourelementsdesign.com/wp-content/uploads/2012/01/fig30a.gif" alt="ADA Bathroom requirements" width="255" height="250" /></a><p class="wp-caption-text">
+  <a href="/images/2012/01/fig30a.gif" ><img class="size-full wp-image-36" title="ADA Bathroom requirements" src="/images/2012/01/fig30a.gif" alt="ADA Bathroom requirements" width="255" height="250" /></a><p class="wp-caption-text">
     ADA Bathroom requirements
   </p>
 </div>
