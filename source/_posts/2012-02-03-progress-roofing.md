@@ -35,17 +35,6 @@ I still haven&#8217;t modeled my living earthberm ramp to the living roof, but t
   </p>
 </div>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div id="attachment_85" class="wp-caption alignleft" style="width: 310px">
   <a href="/images/2012/02/back-building-view.jpg" ><img class="size-medium wp-image-85" title="Back & Side view" src="/images/2012/02/back-building-view-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
@@ -53,19 +42,7 @@ I still haven&#8217;t modeled my living earthberm ramp to the living roof, but t
   </p>
 </div>
 
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div id="attachment_84" class="wp-caption alignleft" style="width: 310px">
   <a href="/images/2012/02/front-entry.jpg" ><img class="size-medium wp-image-84" title="Front Entry view" src="/images/2012/02/front-entry-300x197.jpg" alt="" width="300" height="197" /></a><p class="wp-caption-text">
