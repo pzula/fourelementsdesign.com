@@ -2,7 +2,7 @@
 title: A recycled mobile chicken coop
 author: Persa
 layout: post
-permalink: /2012/03/27/recycled-coo/
+permalink: /2012/03/27/recycled-coop/
 categories:
   - Recycled
 tags:
@@ -68,17 +68,20 @@ All of the lumber in the framing and shingles was from the shipping crates. The 
   </p>
 </div>
 
-<p style="text-align: center;">
-  <div id="attachment_197" class="wp-caption aligncenter" style="width: 747px">
-    <a href="/images/2012/03/IMG_20120307_160547.jpg" ><img class=" wp-image-197 " title="Chelsea moving the coop" src="/images/2012/03/IMG_20120307_160547.jpg" alt="Chelsea moving the coop" width="737" height="553" /></a><p class="wp-caption-text">
+
+<div id="attachment_197" class="wp-caption aligncenter" style="width: 747px">
+    <a href="/images/2012/03/IMG_20120307_160547.jpg" ><img class=" wp-image-197 " title="Chelsea moving the coop" src="/images/2012/03/IMG_20120307_160547.jpg" alt="Chelsea moving the coop" width="737" height="553" /></a>
+    <p class="wp-caption-text">
       Chelsea moving the coop
     </p>
   </div>
   
-  <div id="attachment_199" class="wp-caption aligncenter" style="width: 747px">
-    <a href="/images/2012/03/IMG_20120327_104304.jpg" ><img class=" wp-image-199" title="The coop with electric net fencing and protected, happy chickens" src="/images/2012/03/IMG_20120327_104304.jpg" alt="The coop with electric net fencing and protected, happy chickens" width="737" height="553" /></a><p class="wp-caption-text">
+<div id="attachment_199" class="wp-caption aligncenter" style="width: 747px">
+    <a href="/images/2012/03/IMG_20120327_104304.jpg">
+    <img class=" wp-image-199" title="The coop with electric net fencing and protected happy chickens" src="/images/2012/03/IMG_20120327_104304.jpg" alt="The coop with electric net fencing and protected happy chickens" width="737" height="553" />
+    </a>
+    <p class="wp-caption-text">
       The coop with electric net fencing and protected, happy chickens
     </p>
-  </div>
+</div>
   
-  <p style="text-align: center;">
