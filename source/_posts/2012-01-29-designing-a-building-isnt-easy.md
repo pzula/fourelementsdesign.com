@@ -23,7 +23,7 @@ Here&#8217;s a sneak peak at how things are coming along:
 &nbsp;
 
 <div id="attachment_61" class="wp-caption alignleft" style="width: 227px">
-  <a href="images/2012/01/toilet-stall.jpg" ><img class="size-medium wp-image-61" title="Glorified Privy in 3D, roofless" src="images/2012/01/toilet-stall-217x300.jpg" alt="Glorified Privy in 3D, roofless" width="217" height="300" /></a><p class="wp-caption-text">
+  <a href="/images/2012/01/toilet-stall.jpg" ><img class="size-medium wp-image-61" title="Glorified Privy in 3D, roofless" src="/images/2012/01/toilet-stall-217x300.jpg" alt="Glorified Privy in 3D, roofless" width="217" height="300" /></a><p class="wp-caption-text">
     Glorified Privy in 3D, roofless
   </p>
 </div>
